@@ -1,0 +1,93 @@
+
+[
+  {
+    "category": "Наши Комбо-Наборы (Menús)",
+    "slug": "combos",
+    "items": [
+      {
+        "name": "Семейный Набор XL",
+        "description": "5 Durum, 5 порций Patatas Fritas, 5 напитков (Lata) и 2L Coca Cola. Идеально для большой компании.",
+        "price": "24,50",
+        "image": "set_kebab.jpg"
+      },
+      {
+        "name": "Меню Пицца",
+        "description": "Средняя Пицца (28 см) на выбор + 2 напитка (Lata).",
+        "price": "14,90",
+        "image": "menu_pizza.jpg"
+      },
+      {
+        "name": "Меню 1",
+        "description": "2 Durum + Patatas Fritas + 1 напиток (Lata).",
+        "price": "16,50",
+        "image": "menu_1.webp"
+      }
+    ]
+  },
+  {
+    "category": "Кебаб и Донер",
+    "slug": "kebab-doner",
+    "items": [
+      {
+        "name": "Дюрюм (Durum Kebab)",
+        "description": "Классическая тортилья с мясом (курица/микс), свежими овощами и соусом на выбор.",
+        "price": "6,00",
+        "image": "durum.webp"
+      },
+      {
+        "name": "Пита Кебаб (Pan Kebab)",
+        "description": "Кебаб в традиционной пите с мясом, салатом и соусом.",
+        "price": "5,50",
+        "image": "pita.jpg"
+      },
+      {
+        "name": "Меню Пита Кебаб",
+        "description": "Пита Кебаб + Patatas Fritas + 1 напиток (Lata).",
+        "price": "9,50",
+        "image": "pita_kebab.jpg"
+      },
+      {
+        "name": "Дюрюм с сыром",
+        "description": "Durum с добавлением расплавленного сыра.",
+        "price": "7,50",
+        "image": "durum_cheeze.jpg"
+      }
+    ]
+  },
+  {
+    "category": "Пицца (Pizza)",
+    "slug": "pizza",
+    "items": [
+      {
+        "name": "Маргарита (Margarita)",
+        "description": "Томатный соус, сыр Моцарелла и Орегано.",
+        "price": "8,00",
+        "image": "pizza_margarita.webp"
+      },
+      {
+        "name": "Четыре Сыра (4 Quesos)",
+        "description": "Смесь из четырех видов сыра.",
+        "price": "10,50",
+        "image": "pizza_four_cheeze.webp"
+      }
+    ]
+  },
+  {
+    "category": "Дополнительно",
+    "slug": "extras",
+    "items": [
+      {
+        "name": "Картофель Фри",
+        "description": "Большая порция Patatas Fritas.",
+        "price": "3,50",
+        "image": "fri.webp"
+      },
+      {
+        "name": "Соусы",
+        "description": "Соус на выбор: йогуртовый, острый, чесночный.",
+        "price": "0,50",
+        "image": "sauces.webp"
+      }
+    ]
+  }
+]
